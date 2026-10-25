@@ -1,0 +1,13 @@
+anthropic
+langgraph
+yfinance
+pandas
+ta
+chromadb
+requests
+beautifulsoup4
+lxml
+streamlit
+plotly
+python-dotenv
+pytest
